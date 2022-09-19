@@ -82,6 +82,7 @@ def main():
     # with body you can increase character speed and strength
     # with body and teeth combined you can upgrade your weapon from bat to knife to shot gun to machine gun to rocket launcher
     # game goal: don't die and keep shelter safe
+    # make skins
 
 if __name__ == "__main__":
     main()
